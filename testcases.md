@@ -148,7 +148,7 @@ Only clothes that are in __Vests__ category and in __Insulated__ subcategory are
 - A popup __Added to Cart!__ is shown.
 
 
-## Test Case 11: Change item amount in the Cart.
+## Test Case 12: Change item amount in the Cart.
 
 **Preconditions**
 - [Cart](https://us.jackwolfskin.com/cart) page is opened.
@@ -162,7 +162,7 @@ Only clothes that are in __Vests__ category and in __Insulated__ subcategory are
 - __Subtotal__ price in __Order Summary__ is recalculated.
 
 
-## Test Case 12: Remove an item from the Cart.
+## Test Case 13: Remove an item from the Cart.
 
 **Preconditions**
 - [Cart](https://us.jackwolfskin.com/cart) page is opened.
